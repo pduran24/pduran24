@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <picture>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pduran24/pduran24/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pduran24/pduran24/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
