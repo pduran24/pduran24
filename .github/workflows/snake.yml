@@ -22,9 +22,9 @@ jobs:
           color_dots: #333333
 
           outputs: 
-            dist/github-snake.svg
-            dist/github-contribution-grid-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-contribution-grid-snake.svg
+            github-snake-dark.svg?palette=github-dark
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
