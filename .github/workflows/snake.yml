@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v3
+
+      - name: Crear carpeta dist
+        run: mkdir -p dist
 
       # Generar versión dark
       - name: Generate Snake Dark
@@ -20,7 +23,7 @@ jobs:
           outputs: dist/github-contribution-grid-snake-dark.svg
           args: "--dark"
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
