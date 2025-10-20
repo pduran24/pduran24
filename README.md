@@ -24,4 +24,8 @@ Here are some ideas to get you started:
 </picture>
 
 
+<stats>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauerDev&layout=compact&theme=radical)
+</stats>
+
 </div>
