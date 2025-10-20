@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 
 
 </div>
