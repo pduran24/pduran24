@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <hr></hr>
 <h2 align="center">Stats</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 <hr></hr>
 <br/>
