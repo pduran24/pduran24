@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=github,git,vscode,spring" />
 <img src="https://skillicons.dev/icons?i=java,python,mysql" />
 
+<br/><br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 
 <picture>
