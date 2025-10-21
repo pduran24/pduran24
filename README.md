@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <img src="https://skillicons.dev/icons?i=github,git,vscode,spring" /><br>
-<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=angular,typescript" />
 
 <br/><br/>
 <hr></hr>
