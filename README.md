@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <hr></hr>
 <h2 align="center">Stats</h2>
-<img width=325 align="center" src="https://github-readme-stats-pduran24.vercel.app/api/top-langs/?username=pduran24&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 <hr></hr>
 <br/>
 <h2>🐍 My Contributions 🐍</h2>
