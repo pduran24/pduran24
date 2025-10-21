@@ -29,10 +29,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 <hr></hr>
-<br/><br/>
-
+<br/>
 <h2>🐍 My Contributions 🐍</h2>
-  <br>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pduran24/pduran24/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pduran24/pduran24/output/github-contribution-grid-snake.svg">
