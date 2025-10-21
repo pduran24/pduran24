@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pablo+Durán!;" />
 </h1>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pduran24/pduran24/output/github-contribution-grid-snake-dark.svg">
