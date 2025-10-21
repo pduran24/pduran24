@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<img src="https://skillicons.dev/icons?i=github,git,vscode,springboot" />
+<img src="https://skillicons.dev/icons?i=github,git,vscode,spring" />
 <img src="https://skillicons.dev/icons?i=java,python,mysql" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
