@@ -21,6 +21,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pablo+Durán!;" />
 </h1>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,springboot" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pduran24&layout=compact&theme=radical)
 
