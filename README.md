@@ -22,15 +22,18 @@ Here are some ideas to get you started:
 </h1>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+<h2 align="center">🎯Focused on🎯</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 <br/><br/>
