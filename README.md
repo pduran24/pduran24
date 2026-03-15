@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pablo+Durán!;" />
 </h1>
+    <a href="https://www.linkedin.com/in/pablo-durán-pérez-56a1a5390" target="_blank" rel="noreferrer"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Perfil de LinkedIn de Pablo Durán" /> 
+  </picture> 
+</a>
 
 <hr></hr>
 
@@ -57,5 +64,10 @@ Here are some ideas to get you started:
   <img src="game.gif" alt="GitHub Contribution Space Shooter" width="100%">
 </picture>
 
-
+<br />
+  <a href="https://github.com/pduran24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pduran24&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of pduran24's GitHub stats" /></a>
+<br />
+<br />
+  <a href="https://github.com/pduran24"><img src="https://github-readme-stats.vercel.app/api?username=pduran24&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="pduran24's GitHub stats" /></a>
+<br />
 
