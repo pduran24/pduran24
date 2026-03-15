@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h2>🐍 My Contributions 🐍</h2>
 <picture>
-  <img src="space-shooter.gif" alt="GitHub Contribution Space Shooter" width="100%">
+  <img src="game.gif" alt="GitHub Contribution Space Shooter" width="100%">
 </picture>
 
 
