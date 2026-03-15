@@ -1,22 +1,23 @@
-name: GitHub Space Shooter Contribution Graph
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:  
+
+permissions:
+  contents: write
 
 jobs:
-  generate-space-shooter:
+  update-game:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Checkout del repositorio
-        uses: actions/checkout@v4
-
-      - name: Generar animación Space Shooter
-        uses: czl9707/gh-space-shooter@v1.2
+      - uses: actions/checkout@v6
         with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          output-path: space-shooter.gif
-          strategy: random
+          fetch-depth: 2  
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random'
