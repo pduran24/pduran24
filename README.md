@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </p>
 <hr></hr>
 
-<h2>🐍 My Contributions 🐍</h2>
+<h2>🚀 My Contributions 🚀</h2>
 <picture>
   <img src="game.gif" alt="GitHub Contribution Space Shooter" width="100%">
 </picture>
