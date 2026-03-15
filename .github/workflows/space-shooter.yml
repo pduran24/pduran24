@@ -1,0 +1,22 @@
+name: GitHub Space Shooter Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-space-shooter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Generar animación Space Shooter
+        uses: czl9707/gh-space-shooter@v1.2
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          output-path: space-shooter.gif
+          strategy: random
