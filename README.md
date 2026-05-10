@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <br />
 <a href="https://github.com/pduran24">
-  <img src="https://streak-stats.demolab.com?user=pduran24&theme=dark&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981&cache_seconds=300" />
+  <img src="https://streak-stats.demolab.com?user=pduran24&theme=dark&hide_border=true&ring=10b981&fire=10b981&currStreakLabel=10b981&timezone=Europe/Madrid&v=1" alt="GitHub Streak Stats" />
 </a>
 <br />
 
